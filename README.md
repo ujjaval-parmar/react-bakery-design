@@ -1,8 +1,4 @@
-# React + Vite
+React Bakery: UI design of Online Bakery store in Reactjs styled with Tailwind CSS and some Scroll animations.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![sreenshot](https://github.com/ujjaval-parmar/react-bakery-design/assets/154329143/ce534848-578b-4dc1-beb5-3d4e64665d38)
